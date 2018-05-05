@@ -11,6 +11,20 @@
     "rtsocketclient"
   ],
   "author": "Rohan Taher",
+  "contributors": [
+    {
+      "name": "Rohan Dhamapurkar",
+      "email": "dhamapurkar54@gmail.com"
+    },
+    {
+      "name": "Taher Pardawala",
+      "email": "taher.work@outlook.com"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rohandhamapurkar/rtsocketclient.git"
+  },
   "license": "MIT",
   "dependencies": {
     "socket.io-client": "^2.1.0"
