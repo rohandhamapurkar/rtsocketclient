@@ -1,6 +1,6 @@
 {
   "name": "rtsocketclient",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A socket.io client abstraction.",
   "main": "index.js",
   "scripts": {
